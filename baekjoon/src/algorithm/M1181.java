@@ -7,7 +7,7 @@ import java.util.LinkedHashSet;
 import java.util.Scanner;
 
 
-/* ´Ü¾î Á¤·Ä 
+/* 1181. ë‹¨ì–´ ì •ë ¬
  * 
  * https://www.acmicpc.net/problem/1181
  */
