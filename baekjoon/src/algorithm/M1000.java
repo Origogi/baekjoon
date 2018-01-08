@@ -1,3 +1,5 @@
+package algorithm;
+
 import java.util.*;
 //1000. A+B
 // https://www.acmicpc.net/problem/1000

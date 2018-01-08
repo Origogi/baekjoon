@@ -1,3 +1,6 @@
+package algorithm;
+
+
 import java.util.*;
 
 /* 2581. 소수 구하기

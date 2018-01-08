@@ -1,10 +1,14 @@
+
+package algorithm;
+
+
 import java.util.Scanner;
 
 /* 2750.  정렬하기
 https://www.acmicpc.net/problem/2750
 */
 
-public class Main {
+public class M2750 {
     //Bubble sort
     public static void main(String[] args) {
 		// TODO Auto-generated method stub

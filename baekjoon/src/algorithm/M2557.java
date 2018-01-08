@@ -1,3 +1,6 @@
+package algorithm;
+
+
 import java.util.Scanner;
 // 2557. Hello world
 //https://www.acmicpc.net/problem/2557

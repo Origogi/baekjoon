@@ -1,3 +1,6 @@
+package algorithm;
+
+
 import java.util.*;
 
 //2741. N 찍기

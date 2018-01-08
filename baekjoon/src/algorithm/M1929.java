@@ -1,9 +1,12 @@
+package algorithm;
+
+
 import java.util.*;
 
 /* 1929. 소수 구하기
 https://www.acmicpc.net/problem/1929
 */
-public class Main {
+public class M1929 {
 
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);

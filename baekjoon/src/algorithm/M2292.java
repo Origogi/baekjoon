@@ -1,3 +1,6 @@
+package algorithm;
+
+
 import java.util.*;
 
 // 2292. 벌집

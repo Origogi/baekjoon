@@ -1,3 +1,6 @@
+package algorithm;
+
+
 // 2439. 별 찍기
 // https://www.acmicpc.net/problem/2439
 

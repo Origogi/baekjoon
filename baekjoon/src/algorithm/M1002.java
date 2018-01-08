@@ -1,3 +1,5 @@
+package algorithm;
+
 import java.util.Scanner;
 
 /* 1002. 터렛

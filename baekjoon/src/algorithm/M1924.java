@@ -1,3 +1,6 @@
+package algorithm;
+
+
 import java.util.Scanner;
 
 // 1924. 2007년

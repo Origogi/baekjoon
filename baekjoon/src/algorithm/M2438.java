@@ -1,3 +1,6 @@
+package algorithm;
+
+
 import java.util.*;
 
 // 2438. 별 찍기 - 1

@@ -1,3 +1,5 @@
+package algorithm;
+
 import java.util.Scanner;
 
 // 1001. A-B

@@ -1,3 +1,6 @@
+package algorithm;
+
+
 import java.util.*;
 
 /* 9020. 소수 구하기

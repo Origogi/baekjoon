@@ -1,8 +1,11 @@
+package algorithm;
+
+
 import java.util.Scanner;
 // 2751.  정렬하기
 // https://www.acmicpc.net/problem/2751
 
-public class Main {
+public class M2751 {
 
     public static void main(String[] args) {
         // TODO Auto-generated method stub

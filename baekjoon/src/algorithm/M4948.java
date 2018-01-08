@@ -1,3 +1,6 @@
+package algorithm;
+
+
 import java.util.*;
 
 // 4948. 공준
