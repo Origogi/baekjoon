@@ -5,7 +5,6 @@ https://www.acmicpc.net/problem/2581
 */
 
 public class M2581 {
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
