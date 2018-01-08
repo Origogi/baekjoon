@@ -14,9 +14,6 @@ public class M2440 {
             for (int k = 1; k <=(h-i + 1) ;k++) {
                 System.out.print("*");
             }
-            for (int j = 0;j < i-1;j++) {
-                System.out.print(" ");
-            }
             System.out.println();
         }
     }
