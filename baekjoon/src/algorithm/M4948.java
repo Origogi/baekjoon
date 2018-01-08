@@ -4,7 +4,6 @@ import java.util.*;
 // https://www.acmicpc.net/problem/4948
 
 public class M4948 {
-
     public static void main(String[] args) {
         Scanner scan = new Scanner(System.in);
 
@@ -44,7 +43,6 @@ public class M4948 {
                 }
             }
             System.out.println(count);
-
         }
         scan.close();
 
