@@ -1,4 +1,4 @@
-package algorithm;
+package chapter10;
 
 import java.util.Scanner;
 

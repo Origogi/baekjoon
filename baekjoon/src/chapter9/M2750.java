@@ -1,5 +1,5 @@
 
-package algorithm;
+package chapter9;
 
 
 import java.util.Scanner;

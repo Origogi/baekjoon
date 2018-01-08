@@ -1,4 +1,4 @@
-package algorithm;
+package chapter1;
 
 import java.util.*;
 //1000. A+B

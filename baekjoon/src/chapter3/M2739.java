@@ -1,4 +1,4 @@
-package algorithm;
+package chapter3;
 
 
 // 2739. 구구단
